@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sakhiimam3
 - 👀 I’m interested in Web programing and  hybrid app  development
-- 🌱 I’m currently learning to become a full stack developer
+- 🌱 I’m currently learning to become a react developer
 - 💞️ I’m looking to collaborate on website building using react js 
-- 📫 you can find me in sakhiimam3411@gmail,com 
+- 📫 you can find me in sakhiimam3411@gmail.com 
   call : 03102762635
 
 <!---
