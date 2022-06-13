@@ -1,5 +1,5 @@
 - 👋 Hi, I’m sakhidad
-- 👀 I’m interested in Web programing and  hybrid app  development
+- 👀 I’m a junior React developer 
 - 🌱 I’m currently learning to become a senior react developer
 - 💞️ I’m looking to collaborate on website building using react js and nodejs
 - 📫 you can find me in sakhiimam3411@gmail.com 
