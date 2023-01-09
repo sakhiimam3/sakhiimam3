@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sakhidad
 - 👀 I’m a React developer 
-- 🌱 I’m currently learning to become a mern stack developer
+- 🌱 I’m currently working as a React developer at Lucid-Web-Solution
 - 💞️ I’m looking to collaborate on website building using react js and nodejs
 - 📫 you can find me in sakhiimam3411@gmail.com 
   call : 03482863752
